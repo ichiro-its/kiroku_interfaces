@@ -1,7 +1,5 @@
-
-
 string filename
-string message_log
+string message_logger
 string level
 string time
 
